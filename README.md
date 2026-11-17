@@ -51,5 +51,5 @@ python demo/first-llm-api/hello_llm.py
 
 2026-11-17，Linux、Python 3.12、`openai==3.52.0`：
 
-- 33 支範例全部執行成功（不需網路的範例離線執行）。
+- 32 支範例全部執行成功（不需網路的範例離線執行）。
 - `hello_llm.py`、`embedding_api.py` 兩條線都實際呼叫過：免費線 `nvidia/nemotron-3.5-lightning-30b-a3b`、`nvidia/nemotron-3.5-embed-1b`；付費線 `gpt-5.4-mini`、`text-embedding-3-small`。
